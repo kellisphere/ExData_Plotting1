@@ -3,12 +3,20 @@
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
-the course web site:
+datasets. In particular, it used "Individual household
+electric power consumption Data Set" from:
 
 
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+
+Download this file, and unzip in a ~./data/ location within your working file prior to running the R scripts.
+
+These scripts will create the graphs on the screen, and the last two lines of code will save them to a .png format.
+
+
+
+======================================================================================
+
 
 * <b>Description</b>: Measurements of electric power consumption in
 one household with a one-minute sampling rate over a period of almost
@@ -34,10 +42,6 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
-
-
-
 
 When loading the dataset into R, please consider the following:
 
